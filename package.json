@@ -1,0 +1,25 @@
+{
+  "name": "max-http-header-size-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evgeni-k/max-http-header-size-issue.git"
+  },
+  "author": "Eugene Kisel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evgeni-k/max-http-header-size-issue/issues"
+  },
+  "homepage": "https://github.com/evgeni-k/max-http-header-size-issue#readme",
+  "dependencies": {
+    "koa": "2.7.0",
+    "koa-morgan": "1.0.1",
+    "koa-router": "7.4.0",
+    "koa-views": "6.2.0"
+  }
+}
